@@ -32,7 +32,7 @@ Total cost: £106.25
 Now you have all the dependencies installed and the PiCar build, clone this repo and navigate to the 'final' folder. From here pick which module you wish to run and launch the stream.py on your computer. Finally edit the client.py file with your computers IP address and then launch this updated file on your Pi!
 
 
-##EPQ
+## EPQ
 This repository is part of an A-Level EPQ Project completed by Guy Turner 2017/2018. All work is my own unless specifically declared otherwise.
 This project uses publicly available libraries and modules written for Python. A full list of each module used is included at the top of each script.
 
