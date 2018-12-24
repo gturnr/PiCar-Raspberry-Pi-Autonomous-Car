@@ -23,9 +23,10 @@ To assemble the PiCar you will need the following components:
 * Pi Camera V2.1: £24
 * HCSR04 Ultrasonic: £1.80
 * L298N H Bridge Motor Driver: £3.45
-* Various parts (12v/5c battery pack, wires): £25
+* 12V/5V Battery pack: £36.99
+* Various parts (wires, brackets): £5
 
-Total cost: £106.25
+Total cost: £123.23
 (However for most interested in this project you will already have many of the above components)
 
 ## Startup
